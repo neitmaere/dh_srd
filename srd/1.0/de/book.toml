@@ -9,3 +9,7 @@ additional-css = ["theme/css/custom.css"]
 fold = { "enable" = true }
 git-repository-url = "https://github.com/ParaZera/dh_srd"
 default-theme = "rust"
+
+[output.html.print]
+enable = true
+page-break = false
