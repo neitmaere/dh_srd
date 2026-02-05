@@ -216,9 +216,9 @@ Erhalte einen Vorteil auf: navigieren, schleichen, schwimmen
 ### Lauernde Spinne
 (Vogelspinne, Wolfsspinne, usw.)
 
-Finesse +1 | Ausweichen +2
+Geschick +1 | Ausweichen +2
 
-Nahkampf Finesse W6+1 physisch
+Nahkampf Geschick W6+1 physisch
 
 Erhalte einen Vorteil auf: angreifen, klettern, schleichen
 
@@ -227,7 +227,7 @@ Eine vergiftete Kreatur nimmt **1W10** direkten physischen Schaden jedes Mal, we
 
 **Netzschleuderer:** Du kannst starkes Netzmaterial erschaffen, das sowohl für Abenteuer als auch für den Kampf nützlich ist.
 Das Netz ist widerstandsfähig genug, um eine Kreatur zu tragen.
-Du kannst ein Ziel in Naher Reichweite vorübergehend fesseln, indem du einen erfolgreichen Finessewurf gegen es machst.
+Du kannst ein Ziel in Naher Reichweite vorübergehend fesseln, indem du einen erfolgreichen Geschickwurf gegen es machst.
 
 ## Stufe 2
 
@@ -281,9 +281,9 @@ Ziele, gegen die du erfolgreich bist, nehmen W8+1 physischen Schaden mit deiner 
 ### Zuschlagende Schlange
 (Kobra, Klapperschlange, Viper, usw.)
 
-Finesse +1 | Ausweichen +2
+Geschick +1 | Ausweichen +2
 
-Sehr Nah Finesse W8+4 physisch
+Sehr Nah Geschick W8+4 physisch
 
 Erhalte einen Vorteil auf: klettern, täuschen, sprinten
 
@@ -310,9 +310,9 @@ Bei Erfolg erhältst du einen +2 Bonus auf deine Übung für diesen Angriff und 
 ### Geflügelte Bestie
 (Falke, Eule, Rabe, usw.)
 
-Finesse +1 | Ausweichen +3
+Geschick +1 | Ausweichen +3
 
-Nahkampf Finesse W4+2 physisch
+Nahkampf Geschick W4+2 physisch
 
 Erhalte einen Vorteil auf: täuschen, lokalisieren, erschrecken
 
@@ -353,9 +353,9 @@ Erhalte einen Vorteil auf: angreifen, schleichen, verfolgen
 ### Große Geflügelte Bestie
 (Riesenadler, Falke, usw.)
 
-Finesse +2 | Ausweichen +3
+Geschick +2 | Ausweichen +3
 
-Nahkampf Finesse W8+6 physisch
+Nahkampf Geschick W8+6 physisch
 
 Erhalte einen Vorteil auf: täuschen, ablenken, lokalisieren
 
@@ -436,9 +436,9 @@ Du ignorierst schwieriges Gelände (nach Ermessen der SL) aufgrund deiner Größ
 ### Mythischer Luftjäger
 (Drache, Pterodactylus, Roch, Wyvern, usw.)
 
-Finesse +3 | Ausweichen +4
+Geschick +3 | Ausweichen +4
 
-Nahkampf Finesse W10+11 physisch
+Nahkampf Geschick W10+11 physisch
 
 Erhalte einen Vorteil auf: angreifen, täuschen, lokalisieren, navigieren
 

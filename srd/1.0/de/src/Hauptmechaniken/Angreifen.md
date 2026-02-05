@@ -3,7 +3,7 @@
 ## Angriffswürfe
 Ein **Angriffswurf** ist ein Aktionswurf, der darauf abzielt, Schaden zuzufügen.
 Die Eigenschaft, die für einen Angriffswurf gilt, wird durch die verwendete Waffe oder den Zauber spezifiziert.
-Unbewaffnete Angriffswürfe verwenden entweder Stärke oder Finesse (Wahl der SL).
+Unbewaffnete Angriffswürfe verwenden entweder Stärke oder Geschick (Wahl der SL).
 Der Schwierigkeitsgrad eines Angriffswurfs ist, sofern nicht anders angegeben, gleich dem Schwierigkeitsgrad des Ziels.
 
 ## Schadenswürfe

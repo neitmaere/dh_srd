@@ -42,9 +42,9 @@ Du machst einen Agilitätswurf, um an einem Seil hochzuklettern, in Deckung zu s
 Eine hohe Stärke bedeutet, dass du besser in Kraftakten bist, die deine körperliche Macht und Ausdauer testen.
 Du machst einen Stärkewurf, um eine Tür aufzubrechen, schwere Gegenstände zu heben oder gegen einen angreifenden Feind stand zu halten.
 
-- **Finesse** (Verwende es zum Kontrollieren, Verstecken, Basteln, usw.)
-Eine hohe Finesse bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
-Du machst einen Finessewurf, um feine Werkzeuge zu verwenden, unbemerkt zu bleiben oder mit Präzision zu treffen.
+- **Geschick** (Verwende es zum Kontrollieren, Verstecken, Basteln, usw.)
+Eine hohes Geschick bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
+Du machst einen Geschickwurf, um feine Werkzeuge zu verwenden, unbemerkt zu bleiben oder mit Präzision zu treffen.
 
 - **Instinkt** (Verwende ihn zum Wahrnehmen, Spüren, Navigieren, usw.)
 Ein hoher Instinkt bedeutet, dass du einen scharfen Sinn für deine Umgebung und eine natürliche Intuition hast.

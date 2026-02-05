@@ -135,7 +135,7 @@ Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Knochen-Domän
 
 **Erinnerungskosten:** 1
 
-Wenn du einen erfolgreichen Angriff mit einer Waffe machst, erhalte einen Bonus auf deinen Schadenswurf entsprechend entweder deiner Finesse oder Agilität.
+Wenn du einen erfolgreichen Angriff mit einer Waffe machst, erhalte einen Bonus auf deinen Schadenswurf entsprechend entweder deines Geschick oder Agilität.
 
 ## Brechender Schlag
 **Stufe 8 Knochen Fähigkeit**

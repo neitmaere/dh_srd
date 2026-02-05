@@ -28,7 +28,7 @@ Die maximale Bürde deines Charakters beträgt 2 Hände.
 ## Fähigkeit
 Die **Fähigkeit** einer Waffe ist eine besonderer Effekt, der in Kraft bleibt, während die Waffe ausgerüstet ist.
 
-Du kannst eine ausgerüstete Waffe auf ein Ziel in Sehr Naher Reichweite werfen und den Angriffswurf mit Finesse machen.
+Du kannst eine ausgerüstete Waffe auf ein Ziel in Sehr Naher Reichweite werfen und den Angriffswurf mit Geschick machen.
 Bei Erfolg verursache Schaden wie gewöhnlich für diese Waffe.
 Einmal geworfen, gilt die Waffe nicht länger als ausgerüstet.
 Bis du sie zurückholst und wieder ausrüstest, kannst du nicht mit ihr angreifen oder von ihren Fähigkeiten profitieren.
