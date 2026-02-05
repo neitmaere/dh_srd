@@ -64,13 +64,13 @@ Um einen zufälligen Verbrauchsgegenstand zu generieren, wähle eine Seltenheit,
 | 45 | Ogermoschus | Du kannst diesen Moschus verwenden, um zu verhindern, dass dich jemand durch gewöhnliche oder magische Mittel bis zu deiner nächsten Rast verfolgt. |
 | 46 | Flügelspross | Du erhältst magische Flügel, die dir erlauben, für eine Anzahl Minuten entsprechend deiner Stufe zu fliegen. |
 | 47 | Glas verlorener Stimmen | Du kannst dieses Glas öffnen, um ein betäubendes Echo von Stimmen für eine Anzahl Minuten entsprechend deinem Instinkt freizusetzen. Kreaturen in Weiter Reichweite, die auf den Klang nicht vorbereitet sind, erleiden 6W8 magischen Schaden. |
-| 48 | Drachenblüten-Tee | Du kannst diesen Tee trinken, um einen feurigen Atemangriff zu entfesseln. Mache einen Instinktwurf gegen alle Antagonisten vor dir in Naher Reichweite. Ziele, gegen die du erfolgreich bist, erleiden W20 physischen Schaden mit deiner Kompetenz. |
+| 48 | Drachenblüten-Tee | Du kannst diesen Tee trinken, um einen feurigen Atemangriff zu entfesseln. Mache einen Instinktwurf gegen alle Antagonisten vor dir in Naher Reichweite. Ziele, gegen die du erfolgreich bist, erleiden W20 physischen Schaden mit deiner Übung. |
 | 49 | Brückensaat | Dicke Ranken wachsen von deinem Standort zu einem Punkt deiner Wahl in Weiter Reichweite und ermöglichen dir, an ihnen hoch oder entlang zu klettern. Die Ranken verschwinden bei deiner nächsten kurzen Rast. |
 | 50 | Schlafharz | Du kannst diesen Trank trinken, um für eine ganze Nacht zu schlafen. Du heilst beim Erwachen allen Stress. |
 | 51 | Fest von Xuria | Du kannst diese Mahlzeit essen, um alle TP und Stress zu heilen und 1W4 Hoffnung zu erhalten. |
 | 52 | Bindungshonig | Dieser Honig kann verwendet werden, um zwei Gegenstände dauerhaft zusammenzukleben. |
-| 53 | Schrumpftrank | Du kannst diesen Trank trinken, um deine Größe zu halbieren, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Agilität und einen −1-Malus auf deine Kompetenz. |
-| 54 | Wachstumstrank | Du kannst diesen Trank trinken, um deine Größe zu verdoppeln, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Stärke und einen +1-Bonus auf deine Kompetenz. |
+| 53 | Schrumpftrank | Du kannst diesen Trank trinken, um deine Größe zu halbieren, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Agilität und einen −1-Malus auf deine Übung. |
+| 54 | Wachstumstrank | Du kannst diesen Trank trinken, um deine Größe zu verdoppeln, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Stärke und einen +1-Bonus auf deine Übung. |
 | 55 | Wissensstein | Falls du stirbst, während du diesen Stein hältst, kann ein Verbündeter eine Karte aus deiner Ausrüstung nehmen, um sie in seine Ausrüstung oder sein Schließfach zu legen. Nachdem er dieses Wissen genommen hat, zerbröckelt der Stein. |
 | 56 | Süßes Moos | Du kannst dieses Moos während einer Rast konsumieren, um 1W10 TP oder 1W10 Stress zu heilen. |
 | 57 | Blendende Kugel | Du kannst diese Kugel aktivieren, um einen hellen Lichtblitz zu erzeugen. Alle Ziele in Naher Reichweite werden verwundbar, bis sie TP markieren. |

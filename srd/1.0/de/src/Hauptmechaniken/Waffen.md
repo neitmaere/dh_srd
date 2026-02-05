@@ -14,8 +14,8 @@ Die Eigenschaft einer Waffe spezifiziert, welche Eigenschaft zu verwenden ist, w
 Die Reichweite einer Waffe spezifiziert die maximale Entfernung zwischen dem Angreifer und seinem Ziel bei einem Angriff mit der Waffe.
 
 ## Schaden
-Der **Schaden** einer Waffe zeigt die Größe der Schadenswürfel an, die du bei einem erfolgreichen Angriff mit ihr würfelst; du würfelst eine Anzahl Würfel entsprechend deiner Kompetenz.
-Wenn der Schaden einen festen Modifikator enthält, wird diese Zahl zum Gesamtschaden addiert, wird aber nicht durch Kompetenz verändert oder beeinflusst.
+Der **Schaden** einer Waffe zeigt die Größe der Schadenswürfel an, die du bei einem erfolgreichen Angriff mit ihr würfelst; du würfelst eine Anzahl Würfel entsprechend deiner Übung.
+Wenn der Schaden einen festen Modifikator enthält, wird diese Zahl zum Gesamtschaden addiert, wird aber nicht durch Übung verändert oder beeinflusst.
 
 ## Schadensart
 Die **Schadensart** einer Waffe zeigt an, ob sie physischen oder magischen Schaden verursacht.
