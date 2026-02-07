@@ -43,7 +43,7 @@ Eine hohe Stärke bedeutet, dass du besser in Kraftakten bist, die deine körper
 Du machst einen Stärkewurf, um eine Tür aufzubrechen, schwere Gegenstände zu heben oder gegen einen angreifenden Feind stand zu halten.
 
 - **Geschick** (Verwende es zum Kontrollieren, Verstecken, Basteln, usw.)
-Eine hohes Geschick bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
+Ein hohes Geschick bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
 Du machst einen Geschickwurf, um feine Werkzeuge zu verwenden, unbemerkt zu bleiben oder mit Präzision zu treffen.
 
 - **Instinkt** (Verwende ihn zum Wahrnehmen, Spüren, Navigieren, usw.)
