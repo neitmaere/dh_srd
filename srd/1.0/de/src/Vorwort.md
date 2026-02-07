@@ -1,7 +1,5 @@
 # Vorwort
 
-Source: https://github.com/ParaZera/dh_srd
-
 (*For English see below* / *Für Englisch, siehe unten*)
 
 
